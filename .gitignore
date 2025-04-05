@@ -41,6 +41,10 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+node_modules
+package-lock.json
+.DS_Store
+conf.json
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
